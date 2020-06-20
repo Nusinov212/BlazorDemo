@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Party]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [PartyName] NVARCHAR(MAX) NOT NULL
+)

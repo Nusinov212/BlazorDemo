@@ -1,0 +1,31 @@
+﻿@page "/users"
+@inherits UsersBase
+@using DemoSite.Shared
+
+<h3>Users</h3>
+
+
+@if (users == null)
+{
+<p><em>Loading...</em></p> }
+            else
+            {
+<table class="table">
+    <thead>
+        <tr>
+            <th>UserName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in users)
+        {
+            var link = $"Users/{user.UserName}";
+        <tr>
+            <td>
+                <NavLink class="nav-link" href="@link">
+                    @user.UserName
+                </NavLink>
+            </td>
+        </tr>}
+    </tbody>
+</table>}

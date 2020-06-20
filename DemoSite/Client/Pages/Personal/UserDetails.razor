@@ -1,0 +1,15 @@
+﻿@page "/users/{userName}"
+@inherits UserDetailsBase
+@using DemoSite.Shared
+
+<h3>UserDetails</h3>
+
+@if (user == null)
+{
+<p><em>Loading...</em></p>}
+else
+{ 
+    
+<input  @bind="user.UserName" size="50"/>
+<h3>@user.UserName</h3>
+}

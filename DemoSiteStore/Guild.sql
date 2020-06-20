@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Guild]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)

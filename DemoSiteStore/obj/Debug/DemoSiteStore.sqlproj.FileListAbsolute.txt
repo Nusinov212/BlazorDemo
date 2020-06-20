@@ -1,0 +1,6 @@
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\bin\Debug\DemoSiteStore.dacpac
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\bin\Debug\DemoSiteStore.dll
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\bin\Debug\DemoSiteStore.pdb
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\obj\Debug\DemoSiteStore.sqlprojAssemblyReference.cache
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\obj\Debug\DemoSiteStore.dll
+C:\Users\Admin 2\source\repos\DemoSite\DemoSiteStore\obj\Debug\DemoSiteStore.pdb
