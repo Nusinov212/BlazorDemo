@@ -9,11 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSite.Client", "DemoSite
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSite.Shared", "DemoSite\Shared\DemoSite.Shared.csproj", "{4E266CD2-7E2E-495A-9E9B-20EE88DBD8F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sqlite", "ConsoleApp1\Sqlite.csproj", "{4507509A-4940-4FA7-A95E-C48919110E45}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSite.SqlServer", "SqlServer\DemoSite.SqlServer.csproj", "{EBCD7388-2373-4825-B394-A36FB0CDA3C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSite.Tests", "DemoSite.Tests\DemoSite.Tests.csproj", "{9741CF2D-7199-4181-BC13-0C1B26AC425D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSite.Tests", "DemoSite.Tests\DemoSite.Tests.csproj", "{9741CF2D-7199-4181-BC13-0C1B26AC425D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +31,6 @@ Global
 		{4E266CD2-7E2E-495A-9E9B-20EE88DBD8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E266CD2-7E2E-495A-9E9B-20EE88DBD8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E266CD2-7E2E-495A-9E9B-20EE88DBD8F6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4507509A-4940-4FA7-A95E-C48919110E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4507509A-4940-4FA7-A95E-C48919110E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4507509A-4940-4FA7-A95E-C48919110E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4507509A-4940-4FA7-A95E-C48919110E45}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EBCD7388-2373-4825-B394-A36FB0CDA3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EBCD7388-2373-4825-B394-A36FB0CDA3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCD7388-2373-4825-B394-A36FB0CDA3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU

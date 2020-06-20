@@ -5006,11 +5006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj",
+      "projectUniqueName": "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj",
       "projectName": "DemoSite.SqlServer",
-      "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj",
+      "projectPath": "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj",
       "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\obj\\",
+      "outputPath": "C:\\Source\\BlazorDemo\\SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",

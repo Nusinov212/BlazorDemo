@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj": {}
+    "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj",
         "projectName": "DemoSite.Tests",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj"
+              "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj",
         "projectName": "DemoSite.Client",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj"
+              "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj",
         "projectName": "DemoSite.Server",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,14 +184,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj"
+              "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj"
               },
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj"
+              "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj"
               },
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj"
+              "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj"
               }
             }
           }
@@ -250,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj",
         "projectName": "DemoSite.Shared",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -308,14 +308,14 @@
         }
       }
     },
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj": {
+    "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj",
         "projectName": "DemoSite.SqlServer",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\DemoSite.SqlServer.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\SqlServer\\DemoSite.SqlServer.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\SqlServer\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",

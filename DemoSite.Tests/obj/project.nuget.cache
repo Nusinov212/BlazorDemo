@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BbujEn9UiKtYLDSq9ykCVl+P9lATqy64Qp7N4y8PfA+zASdHdIwTNSrDmeV/8/IYfh3w60UvCLQQBcQ1bW3kfg==",
+  "dgSpecHash": "/erH4V5GMDRpLE8+L9Poz57qMnum/wU1GdGHdyzeDrTU4hm8YR6dKAi8JmOeeM1rChK4Jol1nNsC1T7CA1Ob0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj",
+  "projectFilePath": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin 2\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",

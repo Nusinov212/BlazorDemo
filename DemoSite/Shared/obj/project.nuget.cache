@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WCd620V2VVL7/iIzwDjNUKFqO4BcFiXGy7STw28B6fuYw4J+gyckAfXhU2Nh/JrMLIF31NIMRNlrkkrTN284LQ==",
+  "dgSpecHash": "BIf6FRDzHK3ExMYN8OfXQfNc+bT+3GQKw8DHdHV286l0Dq+s9UFVOhs6LuI3yGIkoljsmTJ77HmaWK2gKPi43A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj",
+  "projectFilePath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin 2\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

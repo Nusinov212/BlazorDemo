@@ -8313,11 +8313,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj",
+      "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj",
       "projectName": "DemoSite.Tests",
-      "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\DemoSite.Tests.csproj",
+      "projectPath": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\DemoSite.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite.Tests\\obj\\",
+      "outputPath": "C:\\Source\\BlazorDemo\\DemoSite.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8333,8 +8333,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj": {
-              "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Server\\DemoSite.Server.csproj"
+            "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj": {
+              "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Server\\DemoSite.Server.csproj"
             }
           }
         }

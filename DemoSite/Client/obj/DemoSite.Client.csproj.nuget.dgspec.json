@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj": {}
+    "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj",
         "projectName": "DemoSite.Client",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\DemoSite.Client.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\DemoSite.Client.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Client\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
-                "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj"
+              "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
+                "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
+    "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj",
+        "projectUniqueName": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj",
         "projectName": "DemoSite.Shared",
-        "projectPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\DemoSite.Shared.csproj",
+        "projectPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\DemoSite.Shared.csproj",
         "packagesPath": "C:\\Users\\Admin 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin 2\\source\\repos\\DemoSite\\DemoSite\\Shared\\obj\\",
+        "outputPath": "C:\\Source\\BlazorDemo\\DemoSite\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
