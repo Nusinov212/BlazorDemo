@@ -10,7 +10,6 @@ C:\Users\Admin 2\source\repos\DemoSite\DemoSite\Shared\obj\Debug\netstandard2.1\
 C:\Source\BlazorDemo\DemoSite\Shared\bin\Debug\netstandard2.1\DemoSite.Shared.deps.json
 C:\Source\BlazorDemo\DemoSite\Shared\bin\Debug\netstandard2.1\DemoSite.Shared.dll
 C:\Source\BlazorDemo\DemoSite\Shared\bin\Debug\netstandard2.1\DemoSite.Shared.pdb
-C:\Source\BlazorDemo\DemoSite\Shared\obj\Debug\netstandard2.1\DemoSite.Shared.csprojAssemblyReference.cache
 C:\Source\BlazorDemo\DemoSite\Shared\obj\Debug\netstandard2.1\DemoSite.Shared.AssemblyInfoInputs.cache
 C:\Source\BlazorDemo\DemoSite\Shared\obj\Debug\netstandard2.1\DemoSite.Shared.AssemblyInfo.cs
 C:\Source\BlazorDemo\DemoSite\Shared\obj\Debug\netstandard2.1\DemoSite.Shared.csproj.CoreCompileInputs.cache

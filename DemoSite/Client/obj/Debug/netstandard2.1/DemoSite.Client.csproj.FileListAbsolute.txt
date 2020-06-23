@@ -696,7 +696,6 @@ C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\Razor\_Imports.raz
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\DemoSite.Client.RazorTargetAssemblyInfo.cache
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\DemoSite.Client.csproj.CopyComplete
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\v6cSe9QSX_W1-ODhFTtlQG3UQ9F2-kYrt95EhYejn8I=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -734,7 +733,6 @@ C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\ZFZ7sEO9dexBkfP7iX8zEyLRXGADfimwwKXVNXak0NI=.hash
-C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\BSzCbcdVEdtnI4blvFWdzB1Y0J9GMJLBrqAar5DgKiI=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\eXpsx2gMheRphGQDVQtx47wnddClRt1b6Wy34mrgZG4=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\Z_NeMeePelfkeb7RMqMLU8KIFQrmV0168zqwpLqbQcc=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\HuN39zo_3JuK3P3Tk9nhsrp8nYpA0ceUkUl_0AJBMWg=.hash
@@ -766,14 +764,11 @@ C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\K3YFmrW2
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\vaqX7NtCPlafZ89NyKNDCL9E9eAgPutOv0Hq8XlIDCM=.hash
-C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\bgM16W3g9m6YQHsRPAbEB7Gbm2tfN5eWMW4soeUu3G8=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\NU9ergV4s4MD2eQ7yZLI5xnCGnoDmGlXpmp_4M--xwE=.hash
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\DemoSite.Client.dll.gz
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -932,3 +927,8 @@ C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\staticwebassets\De
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\staticwebassets\DemoSite.Client.StaticWebAssets.xml
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\DemoSite.Client.dll
 C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\DemoSite.Client.pdb
+C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\uGcY4Tf-8qE_jAXkIux5Izqb1QxoFh-tpBkuKuLHY_0=.hash
+C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\BBNfSZpEPNLNajEepEupXCBqQ5Ib7mL-HQWU9oe6o6U=.hash
+C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\XDyyuzZSpJyLEa9acH_Z9x9dvel9yvJbAcwcnwKl_Ko=.hash
+C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\qtgtMC9-9LWhw8swjjQ-mK1b3xf9GwrVs07_3_cFs9A=.hash
+C:\Source\BlazorDemo\DemoSite\Client\obj\Debug\netstandard2.1\integrity\KdXLqr45hJp6knNm2e2g39fcG-l5nvGb1mchFMzgD_Y=.hash
