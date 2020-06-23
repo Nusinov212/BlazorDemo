@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\SqlServer\DemoSite.SqlServer.csproj" />
+    <ProjectReference Include="..\Client\DemoSite.Client.csproj" />
     <ProjectReference Include="..\Shared\DemoSite.Shared.csproj" />
   </ItemGroup>
 
