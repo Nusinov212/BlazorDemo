@@ -7,25 +7,37 @@
 
 @if (users == null)
 {
-<p><em>Loading...</em></p> }
-            else
+    <p><em>Loading...</em></p> }
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>UserName</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var userItem in users)
             {
-<table class="table">
-    <thead>
-        <tr>
-            <th>UserName</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var user in users)
-        {
-            var link = $"Users/{user.UserName}";
-        <tr>
-            <td>
-                <NavLink class="nav-link" href="@link">
-                    @user.UserName
-                </NavLink>
-            </td>
-        </tr>}
-    </tbody>
-</table>}
+                var link = $"Users/{userItem.UserName}";
+                <tr>
+                    <td>
+                        <MatStringField ReadOnly="true" Value="@userItem.UserName" z Label="User Name" @onclick="(e => LoadUser(userItem.UserName))"></MatStringField>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    if (user != null)
+    {
+<MatDialog @bind-IsOpen="@dialogIsOpen">
+    <MatDialogTitle>@user.UserName</MatDialogTitle>
+    <MatDialogContent>
+        <MatStringField Label="User Name" Value="@user.UserName"></MatStringField>
+    </MatDialogContent>
+    <MatDialogActions>
+        <MatButton Label="Save"></MatButton>
+    </MatDialogActions>
+</MatDialog>
+    }
+}

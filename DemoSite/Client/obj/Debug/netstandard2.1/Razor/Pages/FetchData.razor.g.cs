@@ -73,6 +73,13 @@ using DemoSite.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "C:\Source\BlazorDemo\DemoSite\Client\_Imports.razor"
+using MatBlazor;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "C:\Source\BlazorDemo\DemoSite\Client\Pages\FetchData.razor"
 using DemoSite.Shared;
 

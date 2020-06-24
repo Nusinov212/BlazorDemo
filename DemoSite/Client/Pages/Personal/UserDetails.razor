@@ -2,14 +2,24 @@
 @inherits UserDetailsBase
 @using DemoSite.Shared
 
-<h3>UserDetails</h3>
+<h3>@user.UserName</h3>
 
 @if (user == null)
 {
-<p><em>Loading...</em></p>}
+    <p><em>Loading...</em></p>}
 else
-{ 
-    
-<input  @bind="user.UserName" size="50"/>
-<h3>@user.UserName</h3>
+{
+   
+    <MatCard class="demo-mat-card">
+        <MatCardContent>
+            <MatTextField @bind-Value="user.UserName"></MatTextField>
+        </MatCardContent>
+        <MatCardActions>
+            <MatCardActionButtons>
+                <MatButton>Save</MatButton>
+                <MatButton>Cancel</MatButton>
+            </MatCardActionButtons>
+        </MatCardActions>
+    </MatCard>
+
 }

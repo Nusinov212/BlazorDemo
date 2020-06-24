@@ -16,7 +16,6 @@ namespace DemoSite.Server.Controllers
             context = _context;
         }
         [HttpGet]
-        [Route("[controller]")]
         [Route("[controller]/{UserName}")]
         public User Get(string UserName)
         {

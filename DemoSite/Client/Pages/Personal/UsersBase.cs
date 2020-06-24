@@ -16,10 +16,16 @@ namespace DemoSite.Client.Pages.Personal
         public User[] users { get; set; } 
         [Inject]
         public HttpClient Http { get; set; }
+        public bool dialogIsOpen { get; set; } = false;
         protected override async Task OnInitializedAsync()
         {
             users = await Http.GetFromJsonAsync<User[]>("UserDetails/ListUsers");
         }
-
+        public async Task LoadUser(string UserName)
+        {
+            user  = await Http.GetFromJsonAsync<User>($"UserDetails/{UserName}");
+            dialogIsOpen = true;
+        }
+        public User user { get; set; }
     }
 }
